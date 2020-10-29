@@ -1,0 +1,48 @@
+[submodule "语料库/chinese-poetry"]
+	path = 语料库/chinese-poetry
+	url = https://github.com/chinese-poetry/chinese-poetry.git
+[submodule "文本匹配/COS960"]
+	path = 文本匹配/COS960
+	url = https://github.com/thunlp/COS960.git
+[submodule "对话/SMP2017ECDT-DATA"]
+	path = 对话系统/SMP2017ECDT-DATA
+	url = https://github.com/HITlilingzhi/SMP2017ECDT-DATA.git
+[submodule "文本匹配/ChineseSTS"]
+	path = 文本匹配/ChineseSTS
+	url = https://github.com/IAdmireu/ChineseSTS.git
+[submodule "阅读理解/Chinese-Cloze-RC"]
+	path = 阅读理解/Chinese-Cloze-RC
+	url = https://github.com/ymcui/Chinese-Cloze-RC
+[submodule "阅读理解/cmrc2018"]
+	path = 阅读理解/cmrc2018
+	url = https://github.com/ymcui/cmrc2018
+[submodule "阅读理解/cmrc2019"]
+	path = 阅读理解/cmrc2019
+	url = https://github.com/ymcui/cmrc2019
+[submodule "阅读理解/DRCD"]
+	path = 阅读理解/DRCD
+	url = https://github.com/DRCKnowledgeTeam/DRCD
+[submodule "阅读理解/c3"]
+	path = 阅读理解/c3
+	url = https://github.com/nlpdata/c3.git
+[submodule "阅读理解/ChID-Dataset"]
+	path = 阅读理解/ChID-Dataset
+	url = https://github.com/chujiezheng/ChID-Dataset
+[submodule "阅读理解/DuReader"]
+	path = 阅读理解/DuReader
+	url = https://github.com/baidu/DuReader.git
+[submodule "文本匹配/paws"]
+	path = 文本匹配/paws
+	url = https://github.com/google-research-datasets/paws.git
+[submodule "QA/cMedQA"]
+	path = 问答系统/cMedQA
+	url = https://github.com/zhangsheng93/cMedQA
+[submodule "文本匹配/OCNLI"]
+	path = 文本匹配/OCNLI
+	url = https://github.com/CLUEbenchmark/OCNLI.git
+[submodule "对话/Task-Oriented-Dialogue-Research-Progress-Survey"]
+	path = 对话系统/Task-Oriented-Dialogue-Research-Progress-Survey
+	url = https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey.git
+[submodule "对话系统/chinese_chatbot_corpus"]
+	path = 对话系统/chinese_chatbot_corpus
+	url = https://github.com/codemayq/chinese_chatbot_corpus.git
