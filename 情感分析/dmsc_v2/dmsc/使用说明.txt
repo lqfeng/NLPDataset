@@ -1,0 +1,2 @@
+详见：
+https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/dmsc_v2/intro.ipynb
