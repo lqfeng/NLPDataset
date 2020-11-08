@@ -49,3 +49,9 @@
 [submodule "实体识别/video_music_book_datasets"]
 	path = 实体识别/video_music_book_datasets
 	url = https://github.com/LG-1/video_music_book_datasets.git
+[submodule "对话系统/SMP2020-ECDT/KDConv/KdConv"]
+	path = 对话系统/SMP2020-ECDT/KDConv/KdConv
+	url = https://github.com/thu-coai/KdConv.git
+[submodule "小样本学习/FewRel"]
+	path = 小样本学习/FewRel
+	url = https://github.com/thunlp/FewRel.git
