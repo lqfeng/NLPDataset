@@ -55,3 +55,33 @@
 [submodule "小样本学习/FewRel"]
 	path = 小样本学习/FewRel
 	url = https://github.com/thunlp/FewRel.git
+[submodule "阅读理解/cmrc2017"]
+	path = 阅读理解/cmrc2017
+	url = https://github.com/ymcui/cmrc2017.git
+[submodule "其他/huggingface_datasets"]
+	path = 其他/huggingface_datasets
+	url = https://github.com/huggingface/datasets.git
+[submodule "其他/chinese_nlp_corpus"]
+	path = 其他/chinese_nlp_corpus
+	url = https://github.com/SimmerChan/corpus.git
+[submodule "其他/awesome-Chinese-NLP"]
+	path = 其他/awesome-Chinese-NLP
+	url = https://github.com/crownpku/Awesome-Chinese-NLP.git
+[submodule "其他/awesome_Chinese_medical_NLP"]
+	path = 其他/awesome_Chinese_medical_NLP
+	url = https://github.com/GanjinZero/awesome_Chinese_medical_NLP.git
+[submodule "其他/Chinese-Literature-NER-RE-Dataset"]
+	path = 其他/Chinese-Literature-NER-RE-Dataset
+	url = https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset.git
+[submodule "其他/Chinese-NLP-Corpus"]
+	path = 其他/Chinese-NLP-Corpus
+	url = https://github.com/OYE93/Chinese-NLP-Corpus.git
+[submodule "其他/ChineseNlpCorpus"]
+	path = 其他/ChineseNlpCorpus
+	url = https://github.com/SophonPlus/ChineseNlpCorpus.git
+[submodule "其他/entity-recognition-datasets"]
+	path = 其他/entity-recognition-datasets
+	url = https://github.com/juand-r/entity-recognition-datasets.git
+[submodule "其他/nlp-datasets"]
+	path = 其他/nlp-datasets
+	url = https://github.com/karthikncode/nlp-datasets.git
