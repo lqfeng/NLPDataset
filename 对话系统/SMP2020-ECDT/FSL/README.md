@@ -1,5 +1,20 @@
+### 【相关资源】
 
-#### **任务1：小样本对话语言理解技术评测**
+[视频:任务型对话系统中的小样本自然语言理解(车万翔)](https://www.bilibili.com/video/BV1xt4y1e7HE?p=7)
+
+##### 论文:
+
+**Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network.** *Yutai Hou, Wanxiang Che, Yongkui Lai, Zhihan Zhou, Yijia Liu, Han Liu, Ting Liu.* ACL 2020. [[pdf](https://file.aconf.org/conf/hz/2020/03/174917/files/2006_05702.pdf)]
+
+##### 代码(Baseline)：
+
+[1.Few-shot Slot Tagging](https://github.com/AtmaHou/FewShotTagging)
+
+[2.Meta Dialog Platform (MDP)](https://github.com/AtmaHou/MetaDialog)
+
+
+
+### **任务1：小样本对话语言理解技术评测**
 
 【背景介绍】
 
@@ -25,13 +40,13 @@
 
 【评测方式】
 
-1. \1. 训练数据集：
+1. 训练数据集：
 
 若干富数据领域的单轮对话语料，每条语料标注有意图Intent和语义槽Slot。
 
 评测队伍可以视自己需要对数据进行处理、训练。
 
-1. \2. 测试数据集：
+2. 测试数据集：
 
 若干个**训练集未出现**领域的数据，每个领域公开一个支撑集Support Set，模型在对应查询集Query Set上进行评测，Query Set数据不公开。
 
@@ -39,13 +54,13 @@
 
 （评测队伍针对每个领域提交一个模型文件，不同领域的数据和测试过程彼此独立。）
 
-1. \3. 开发数据集：
+3. 开发数据集：
 
 格式同测试数据，我们同时公开每个领域的Support Set数据和Query Set数据。
 
 评测队伍根据自己的需要使用。
 
-1. \4. 数据格式：
+4. 数据格式：
 
 数据采用json格式，每条语料的标注格式如下：
 
@@ -75,23 +90,8 @@
 ● 综合评价，我们采用句准确率（sentence acc）来衡量模型意图识别和语义槽填充的综合能力，当一句话Intent和Slot都识别正确才算正确预测，其余算错误预测。
 
 我们会给出三项分别排名作为参考，最终比赛排名以sentence acc为准。
-
  
 
-【奖励设置】
-
-一等奖（1名）20,000元
-
-二等奖（2名）各10,000元
-
-三等奖（4名）各2,500元
-
- 
-
-【相关资源】
-
-论文:
-**Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network.** *Yutai Hou, Wanxiang Che, Yongkui Lai, Zhihan Zhou, Yijia Liu, Han Liu, Ting Liu.* ACL 2020. [[pdf](https://file.aconf.org/conf/hz/2020/03/174917/files/2006_05702.pdf)]
 
  
 
