@@ -85,3 +85,12 @@
 [submodule "其他/nlp-datasets"]
 	path = 其他/nlp-datasets
 	url = https://github.com/karthikncode/nlp-datasets.git
+[submodule "其他/中文拆字字典"]
+	path = 其他/中文拆字字典
+	url = https://github.com/kfcd/chaizi.git
+[submodule "其他/中文实体情感知识库"]
+	path = 其他/中文实体情感知识库
+	url = https://github.com/rainarch/SentiBridge.git
+[submodule "其他/中文NLP资源库"]
+	path = 其他/中文NLP资源库
+	url = https://github.com/fighting41love/funNLP.git
